@@ -1,2 +1,6 @@
 World!
+<<<<<<< HEAD
 Hello World!
+=======
+World!
+>>>>>>> origin/main
